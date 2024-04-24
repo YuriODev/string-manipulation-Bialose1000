@@ -1,1 +1,2 @@
-# Your solution to Exercise 3
+n = input("Enter a number: ")
+print("2" + n + "2")

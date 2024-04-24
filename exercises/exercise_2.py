@@ -1,1 +1,2 @@
-# Your solution to Exercise 2
+string = input("Enter your string: ")
+print(string.title())
